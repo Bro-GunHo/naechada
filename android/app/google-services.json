@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "841860127863",
+    "firebase_url": "https://mycar-ea2e6.firebaseio.com",
+    "project_id": "mycar-ea2e6",
+    "storage_bucket": "mycar-ea2e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841860127863:android:cf69550d8fc207e25dfa72",
+        "android_client_info": {
+          "package_name": "mycar.dmonster.com.mycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841860127863-0mdqejgm4v2jou0911ac9o42mu0tjai3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mycar.dmonster.com.mycar",
+            "certificate_hash": "ec9250bcf162d1dcc2bf8d9160de4caedb1d41ca"
+          }
+        },
+        {
+          "client_id": "841860127863-p6vajrvo18058ms1frljt7efsq2pl0rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mycar.dmonster.com.mycar",
+            "certificate_hash": "20da7047dc0d6bed801a28e57e27cd698f8ef365"
+          }
+        },
+        {
+          "client_id": "841860127863-t38togc6glc6r63nbie4rfvqnsbv7cem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mycar.dmonster.com.mycar",
+            "certificate_hash": "2dfbcea170d73e92ee73e1764455323f5810d540"
+          }
+        },
+        {
+          "client_id": "841860127863-krd6q0jrof43bfachqk7p6aqnppf35jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSCXIr1QKt5FZlz9_WYhZM7NkFCnd4Ydk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841860127863-krd6q0jrof43bfachqk7p6aqnppf35jf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841860127863-go7nlas16bdrsr3kc53n62a62aofremq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dmonster.Mycar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
